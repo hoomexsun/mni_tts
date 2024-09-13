@@ -1,0 +1,18 @@
+*.pyc
+*.pt
+waveglow
+dataset
+__pycache__
+.vscode
+
+# Personal
+mni_speech
+trial*
+test*
+old*
+
+
+# Large files
+dataset
+text_mm.py
+mm*
